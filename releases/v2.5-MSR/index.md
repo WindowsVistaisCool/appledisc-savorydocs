@@ -1,4 +1,3 @@
-# --------------------THIS RELEASE IS CURRENTLY BROKEN; A PATCH WILL BE PUSHED AROUND AUG 13--------------------
 # v2.5-MSR SavoryBot - Cogs update
 ## Bug Fixes/Updates
 - Split `commandListener` into many cogs (#35)
